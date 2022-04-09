@@ -5,10 +5,5 @@
 ---------------------------------------------------------
 
 <p align="center">
-<b bold=true>
-  ! Cool Logos For Me Only !
-</p> </b>
-
-<p align="center">
   <img width="460" height="200" src="https://i.gyazo.com/4495e975533e24bbc78e3685260a8c4a.png">
 </p>
